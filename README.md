@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @itsTrenzen
 - 👀 I’m interested in video games and programming
 - I have knowledge in HTML, CSS, JS and Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...S
 
 <!---
