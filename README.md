@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @itsTrenzen
-- 👀 I’m interested in video games and programming
+- 👋 Hi, I’m Nick
+- 👀 I’m interested in video games, programming and good music
 - I have knowledge in HTML, CSS, JavaScript, Java and a bit Python
 - 📫 How to reach me: nickbetker.it@gmail.com
 
