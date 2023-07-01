@@ -1,3 +1,4 @@
+## About me
 - 👋 Hey, I’m Nick
 - 👀 I’m interested in video games, programming and good music
 - I have knowledge in HTML, CSS, JavaScript and Java
