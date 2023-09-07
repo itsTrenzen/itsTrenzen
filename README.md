@@ -1,10 +1,26 @@
 ## About me
-- 👋 Hey, I’m Nick
-- 👀 I’m interested in video games, programming and good music
-- I have knowledge in HTML, CSS, JavaScript, Java and SQL
-- Currently I am learning Python
-- 📫 How to reach me: nickbetker.it@gmail.com
-- See my portfolio: Coming soon
+- Hey, I’m Nick
+- 18 y.o
+
+## Interests
+- video games
+- programming
+- good music
+- eguitar
+
+## Abilities
+- HTML
+- CSS
+- JavaScript
+- Java
+- SQL
+
+## Status 
+- Computer science student
+
+## Contact
+- 📫 nickbetker.it@gmail.com
+- portfolio: Coming soon
 
 <!---
 itsTrenzen/itsTrenzen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
