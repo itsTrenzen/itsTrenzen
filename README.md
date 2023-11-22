@@ -1,6 +1,6 @@
 ## About me
 - Hey, I’m Nick
-- 18 y.o
+- 19 y.o
 
 ## Interests
 - video games
@@ -13,6 +13,7 @@
 - CSS
 - JavaScript
 - Java
+- C
 - SQL
 
 ## Status 
