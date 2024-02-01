@@ -2,19 +2,12 @@
 - Hey, I’m Nick
 - 19 y.o
 
-## Interests
-- video games
-- programming
-- good music
-- eguitar
-
 ## Abilities
 - HTML
 - CSS
 - JavaScript
 - Java
-- C
-- SQL
+- (SQL)
 
 ## Status 
 - Computer science student
