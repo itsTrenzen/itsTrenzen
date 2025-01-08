@@ -1,6 +1,6 @@
 ## About me
 - Hey, I’m Nick
-- 10 y.o
+- 20 y.o
 
 ## Abilities
 - HTML
