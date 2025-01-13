@@ -1,16 +1,14 @@
 ## About me
-- Hey, I’m Nick
-- 20 y.o
+My name is Nick and I am a German computer science student.
 
-## Abilities
-- HTML
-- CSS
+## Languages
+- HTML/CSS
 - JavaScript
 - Java
 - (SQL)
 
-## Status 
-- Computer science student
+## Currently learning
+-React
 
 ## Contact
 - 📫 nickbetker.it@gmail.com
