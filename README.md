@@ -8,7 +8,7 @@ My name is Nick and I am a German computer science student.
 - (SQL)
 
 ## Currently learning
--React
+- React
 
 ## Contact
 - 📫 nickbetker.it@gmail.com
