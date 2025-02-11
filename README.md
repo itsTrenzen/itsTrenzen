@@ -9,6 +9,7 @@ My name is Nick and I am a German computer science student.
 
 ## Currently learning
 - React
+- Spring
 
 <!---
 itsTrenzen/itsTrenzen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
