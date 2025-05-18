@@ -4,7 +4,7 @@ My name is Nick and I am a German computer science student.
 ## Languages
 - HTML/CSS/JS
 - Java
-- (SQL)
+- PL/SQL
 
 ## Currently learning
 - React
