@@ -6,6 +6,7 @@ My name is Nick and I am a German computer science student.
 - Java
 - PL/SQL
 - (Python)
+- (Kotlin)
 
 ## Currently learning
 - React
