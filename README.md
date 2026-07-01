@@ -1,16 +1,16 @@
 ## About me
 My name is Nick and I am a German computer science student.
 
-## Languages
+## Tech stack
 - HTML/CSS/JS
 - Java
 - PL/SQL
-- (Python)
+- Python
+- Spring Boot
 - (Kotlin)
 
 ## Currently learning
 - React
-- Spring
 - Swift
 <!---
 itsTrenzen/itsTrenzen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
